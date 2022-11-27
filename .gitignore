@@ -11,6 +11,9 @@ __pycache__/
 *.csv
 *.odf
 
+# Large Inference Data
+*.nc
+
 # Neural Net Logs
 logs
 
